@@ -1,2 +1,2 @@
-﻿# PROJETO DE FILMES COM REACT E API DO TMDB (REACT ROUTER, REACT HOOKS)
+﻿# Projeto de Filmes com React e Api do TMDB (React Router, React Hooks)
  
